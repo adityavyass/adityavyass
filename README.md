@@ -25,8 +25,8 @@
 - 💬 Ask me about: Java, SQL, Web Development  
 - ⚡ Fun fact: I love turning ideas into code 🚀  
 
----
+--
 
 ## 🤝 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityavyass)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vyas1/)  
